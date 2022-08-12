@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['601137608340']
+global.owner = ['6285821808618']
 global.pengguna = 'AJIR'
 global.premium = []
 global.author = 'AJIR'
-global.pemilik = ['6285821808618'] 
+global.pemilik = ['601137608340'] 
 global.ownernomer = '601137608340'
 global.ownername = 'AJIR'
 global.botname = 'AJIR - 𝐁𝐎𝐓'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285821808618'
+global.meki = '601137608340'
 global.footer = 'AJIR - 𝐁𝐎𝐓'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'AJIR' //Ubah nama kalian buat nambahin di tqtq bot
@@ -28,7 +28,7 @@ global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UCKKRXu2Oh-Fv5S8JzHo5ecw' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/ajirstore__'
-global.gc = 'https://chat.whatsapp.com/Ff2qSrlLCSl8IhwsWi1QKM' //join ya
+global.gc = 'https://chat.whatsapp.com/J6aULEfNPBr83RxVkK1eVq' //join ya
 global.dana = 'SEND KE QRIS : https://ibb.co/VvcDns2'
 global.gopay = 'SEND KE QRIS : https://ibb.co/VvcDns2'
 global.wame = 'https://wa.me/6288902229533'
