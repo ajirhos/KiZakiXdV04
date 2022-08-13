@@ -5,22 +5,22 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285821808618' ganti nomor kalian '628xxxxxx'
+// '6281354461630' ganti nomor kalian '628xxxxxx'
 //AJIRBOT ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['601137608340']
+global.owner = ['6285821808618']
 global.pengguna = 'AJIR'
 global.premium = []
 global.author = 'AJIR'
-global.pemilik = ['601137608340'] 
+global.pemilik = ['6281354461630'] 
 global.ownernomer = '6285821808618'
 global.ownername = 'AJIR'
 global.botname = 'AJIR - 𝐁𝐎𝐓'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '601137608340'
+global.meki = '6281354461630'
 global.footer = 'AJIR - 𝐁𝐎𝐓'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'AJIR' //Ubah nama kalian buat nambahin di tqtq bot
