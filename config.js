@@ -5,7 +5,7 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6283873210728' ganti nomor kalian '628xxxxxx'
+// '6287810406114' ganti nomor kalian '6287810406114'
 //AJIRBOT ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
@@ -28,7 +28,7 @@ global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UCKKRXu2Oh-Fv5S8JzHo5ecw' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/ajirstore__'
-global.gc = 'https://chat.whatsapp.com/HIxpFH5nKCm0e8SOcm98X7' //join ya
+global.gc = 'https://chat.whatsapp.com/J8pQ63hfBJNLnYSPUKX2Me' //join ya
 global.dana = 'SEND KE QRIS : QRIS ALL PAYMENT LAGI EROR'
 global.gopay = 'SEND KE QRIS : QRIS ALL PAYMENT LAGI EROR'
 global.wame = 'https://wa.me/6288902229533'
