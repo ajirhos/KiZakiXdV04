@@ -5,7 +5,7 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6287756428895' ganti nomor kalian '6287756428895'
+// '6283849850839' ganti nomor kalian '6283849850839'
 //AJIRBOT ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
@@ -14,13 +14,13 @@ global.owner = ['6285821808618']
 global.pengguna = 'AJIR'
 global.premium = []
 global.author = 'AJIR'
-global.pemilik = ['6287756428895'] 
+global.pemilik = ['6283849850839'] 
 global.ownernomer = '6285821808618'
 global.ownername = 'AJIR'
 global.botname = 'AJIR - 𝐁𝐎𝐓'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6287756428895'
+global.meki = '6283849850839'
 global.footer = 'AJIR - 𝐁𝐎𝐓'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'AJIR' //Ubah nama kalian buat nambahin di tqtq bot
@@ -28,10 +28,10 @@ global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UCKKRXu2Oh-Fv5S8JzHo5ecw' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/ajirstore__'
-global.gc = 'https://chat.whatsapp.com/BKOCXKrfpqCDZ8a3OHnynM' //join ya
+global.gc = 'https://chat.whatsapp.com/J8rJXYL5SPtDaQsTGhLOn7' //join ya
 global.dana = 'SEND KE QRIS : QRIS ALL PAYMENT LAGI EROR'
 global.gopay = 'SEND KE QRIS : QRIS ALL PAYMENT LAGI EROR'
-global.wame = 'https://wa.me/6287756428895'
+global.wame = 'https://wa.me/6283849850839'
 global.email = 'gasmuhajir@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/ajir_storestore'
